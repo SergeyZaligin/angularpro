@@ -1,5 +1,6 @@
 # Sportshop
-
+ng serve --port 3000 --open <br>
+npm run json<br>  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
